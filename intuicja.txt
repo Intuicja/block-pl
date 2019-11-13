@@ -1,0 +1,12 @@
+google-analytics.com
+redefine.pl
+adservice.google.com
+connect.facebook.net
+stat24.com
+ads.linkedin.com
+px.ads.linkedin.com
+pulsembed.eu
+redefine.pl
+bizographics.com
+google-analytics.com
+googletagmanager.com
